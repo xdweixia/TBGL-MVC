@@ -1,3 +1,3 @@
 # TBGL-MVC
-About MATLAB implementation for our under-review paper: Tensorized Bipartite Graph Learning for Multi-view Clustering
-The code will be soon released.
+About MATLAB implementation demo for our TPAMI under-review paper: Tensorized Bipartite Graph Learning for Multi-view Clustering.
+

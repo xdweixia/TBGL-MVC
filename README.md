@@ -1,4 +1,4 @@
-# TBGL-MVC
+# TPAMI2022-TBGL-MVC
 About MATLAB implementation demo for our accepted TPAMI article: Tensorized Bipartite Graph Learning for Multi-view Clustering.
 
 
@@ -11,6 +11,5 @@ run_cluster.m
 ```
 
 ## Note
-If you use some sub-functions, please cite this article. The Final version and all datatsets and codes will come soon.
-
-### The codes and all datasets will come soon!!!
+### The Handwritten4 and Mnist4 is is the fold of 'datasets'
+### Other datasets are availiable in 

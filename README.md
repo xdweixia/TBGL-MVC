@@ -13,4 +13,4 @@ run_cluster.m
 ```
 
 ## Datasets
-The MSRC, Handwritten4 and Mnist4 datasets are placed in "dataset" folder. The Caltech101-20, NUS-WIDE, Reuters, and NoisyMNIST datasets could be downloaded from [Google Drive](https://drive.google.com/drive/folders/1xsqkzWcZ189fBtp6jGXFucUbiELDNcTY?usp=sharing).
+The MSRC, Handwritten4 and Mnist4 datasets are placed in "dataset" folder. The Caltech101-20, NUS-WIDE, Reuters, and NoisyMNIST datasets could be downloaded from [Google Drive](https://drive.google.com/drive/folders/1xsqkzWcZ189fBtp6jGXFucUbiELDNcTY?usp=sharing). For other demos, such as three synthetic toy datasets: Two-moon, Three-ring, and Synthetic data, if you need, please contact this e-mail: xd[dot]weixia[AT]gmial.com.

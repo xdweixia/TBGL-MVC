@@ -1,6 +1,8 @@
 # TPAMI2022-TBGL-MVC
-About MATLAB implementation demo for our accepted TPAMI article: Tensorized Bipartite Graph Learning for Multi-view Clustering.
 
+This repo contains the MATLAB code and data of our IEEE TPAMI'2022 article: Tensorized Bipartite Graph Learning for Multi-view Clustering.
+
+[Tensorized Bipartite Graph Learning for Multi-view Clustering](https://ieeexplore.ieee.org/document/9813586)
 
 ## Requirements
 - MATLAB R2020a
@@ -10,6 +12,5 @@ About MATLAB implementation demo for our accepted TPAMI article: Tensorized Bipa
 run_cluster.m
 ```
 
-## Note
-### The Handwritten4 and Mnist4 is is the fold of 'datasets'
-### Other datasets are availiable in 
+## Datasets
+The MSRC, Handwritten4 and Mnist4 datasets are placed in "dataset" folder. The Caltech101-20, NUS-WIDE, Reuters, and NoisyMNIST datasets could be downloaded from [Google Drive](https://drive.google.com/drive/folders/1xsqkzWcZ189fBtp6jGXFucUbiELDNcTY?usp=sharing)

@@ -1,6 +1,6 @@
 # TPAMI2022-TBGL-MVC
 
-This repo contains the MATLAB code and data of our IEEE TPAMI'2022 article: Tensorized Bipartite Graph Learning for Multi-view Clustering.
+This repo contains the MATLAB code and datasets of our IEEE TPAMI'2022 article: Tensorized Bipartite Graph Learning for Multi-view Clustering.
 
 [Tensorized Bipartite Graph Learning for Multi-view Clustering](https://ieeexplore.ieee.org/document/9813586)
 
